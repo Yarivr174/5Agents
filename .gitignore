@@ -1,0 +1,8 @@
+# סודות — לעולם לא להעלות ל-git
+.env
+.env.local
+.env.*.local
+
+# קבצי מערכת
+Thumbs.db
+.DS_Store
